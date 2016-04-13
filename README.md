@@ -23,3 +23,4 @@ A Living List of Books on Computer Science
  - [Programming on Purpose](http://www.amazon.com/Programming-Purpose-Essays-Software-Design/dp/0137213743/ref=sr_1_5?s=books&ie=UTF8&qid=1460572877&sr=1-5), Plauger (this is a series--only listing the first one here)
  - [Design Patterns](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1460572429&sr=1-1&keywords=Design+Patterns), GOF
  - [Refactoring](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=pd_sim_14_37?ie=UTF8&dpID=512-aYxS4ML&dpSrc=sims&preST=_AC_UL160_SR127%2C160_&refRID=1YDC3GWZMH89WCNBK58T), Fowler
+ - [Software Fundamentals](http://www.amazon.com/Software-Fundamentals-Collected-Papers-Parnas/dp/0201703696/ref=sr_1_1?ie=UTF8&qid=1460573440&sr=8-1), Parnas
